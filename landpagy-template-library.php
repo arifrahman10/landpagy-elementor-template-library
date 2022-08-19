@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: Landpagy Template Library
+ * Plugin Name: Landpagy Elementor Template Library
  * Plugin URI: https://themeforest.net/user/spider-themes/portfolio
  * Description: This plugin adds the core features template library to the Landpagy WordPress theme. You must have to install this plugin to get all the features included with the landpagy theme.
  * Version: 1.0.0
  * Author: Arif Rahman
  * Author URI: https://themeforest.net/user/droitthemes/portfolio
- * Text domain: landpagy-template-library
+ * Text domain: landpagy-elementor-template-library
  */
 
 
